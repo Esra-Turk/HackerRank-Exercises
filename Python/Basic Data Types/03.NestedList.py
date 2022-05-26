@@ -13,7 +13,6 @@ for _ in range(int(input())):
 
 records.sort(key=lambda x: x[1])
 
-
 for i in range(len(records)):
     smallest = records[0][1]
     if records[i][1] > smallest:
