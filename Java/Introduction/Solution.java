@@ -1,3 +1,4 @@
+package Introduction;
 //problem: https://www.hackerrank.com/challenges/java-datatypes/problem
 
 import java.util.*;
