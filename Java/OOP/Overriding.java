@@ -2,7 +2,6 @@
 import java.util.*;
 
 class Sports{
-
     String getName(){
         return "Generic Sports";
     }
@@ -19,10 +18,8 @@ class Soccer extends Sports{
     }
     
     void getNumberOfTeamMembers() {
-        System.out.println( "Each team has 11 players in " + getName());
-        
+        System.out.println( "Each team has 11 players in " + getName());   
     }
-    
 }
 
 public class Overriding{
